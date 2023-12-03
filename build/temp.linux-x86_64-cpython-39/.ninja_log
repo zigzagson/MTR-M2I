@@ -1,0 +1,11 @@
+# ninja log v5
+1	3568	1692326280278550498	/home/arclab/ICRA2023/IV2023_first-Prediction/build/temp.linux-x86_64-cpython-39/my_model_name/ops/knn/src/knn.o	d4bbfbcb60c003a9
+1	10462	1692326287170550262	/home/arclab/ICRA2023/IV2023_first-Prediction/build/temp.linux-x86_64-cpython-39/my_model_name/ops/knn/src/knn_api.o	a4fdfc58f8c064ce
+1	10982	1692326287690550244	/home/arclab/ICRA2023/IV2023_first-Prediction/build/temp.linux-x86_64-cpython-39/my_model_name/ops/knn/src/knn_gpu.o	b4c221bef3992130
+1	671	1692326288722550209	/home/arclab/ICRA2023/IV2023_first-Prediction/build/temp.linux-x86_64-cpython-39/my_model_name/ops/attention/src/attention_weight_computation_kernel_v2.o	7049e6fc1c7372ff
+1	767	1692326288822550205	/home/arclab/ICRA2023/IV2023_first-Prediction/build/temp.linux-x86_64-cpython-39/my_model_name/ops/attention/src/attention_value_computation_kernel_v2.o	fb2c0842b06c3680
+1	8918	1692326296970549926	/home/arclab/ICRA2023/IV2023_first-Prediction/build/temp.linux-x86_64-cpython-39/my_model_name/ops/attention/src/attention_func_v2.o	ac4c8908fcc4b8c4
+1	8931	1692326296986549926	/home/arclab/ICRA2023/IV2023_first-Prediction/build/temp.linux-x86_64-cpython-39/my_model_name/ops/attention/src/attention_func.o	f660aa0862f8a5e4
+1	11596	1692326299646549834	/home/arclab/ICRA2023/IV2023_first-Prediction/build/temp.linux-x86_64-cpython-39/my_model_name/ops/attention/src/attention_weight_computation_kernel.o	5245cf7cc186cedf
+1	11654	1692326299706549832	/home/arclab/ICRA2023/IV2023_first-Prediction/build/temp.linux-x86_64-cpython-39/my_model_name/ops/attention/src/attention_api.o	10c7a8ac7134a4e3
+1	11729	1692326299778549830	/home/arclab/ICRA2023/IV2023_first-Prediction/build/temp.linux-x86_64-cpython-39/my_model_name/ops/attention/src/attention_value_computation_kernel.o	dcb5eb82d9882497

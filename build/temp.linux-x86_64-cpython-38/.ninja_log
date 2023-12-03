@@ -1,0 +1,21 @@
+# ninja log v5
+0	4592	1686831683815391766	/home/arclab/IV2023_first/build/temp.linux-x86_64-cpython-38/my_model_name/ops/knn/src/knn.o	dae654a645f55f01
+1	9760	1686831688983391851	/home/arclab/IV2023_first/build/temp.linux-x86_64-cpython-38/my_model_name/ops/knn/src/knn_api.o	d529299a6a119ead
+1	14112	1686831693335391923	/home/arclab/IV2023_first/build/temp.linux-x86_64-cpython-38/my_model_name/ops/knn/src/knn_gpu.o	b78cf2ee9be5b9ee
+2	652	1686831814759393922	/home/arclab/IV2023_first/build/temp.linux-x86_64-cpython-38/my_model_name/ops/attention/src/attention_weight_computation_kernel_v2.o	701fc8923977b4a4
+2	688	1686831814795393923	/home/arclab/IV2023_first/build/temp.linux-x86_64-cpython-38/my_model_name/ops/attention/src/attention_value_computation_kernel_v2.o	810da3fed295688
+1	8806	1686831822911394057	/home/arclab/IV2023_first/build/temp.linux-x86_64-cpython-38/my_model_name/ops/attention/src/attention_func.o	76c60ad2a5391d6f
+2	8854	1686831822959394057	/home/arclab/IV2023_first/build/temp.linux-x86_64-cpython-38/my_model_name/ops/attention/src/attention_func_v2.o	14f31ab8defc08b2
+1	10233	1686831824339394080	/home/arclab/IV2023_first/build/temp.linux-x86_64-cpython-38/my_model_name/ops/attention/src/attention_api.o	4aaf9be9f361e63f
+2	14526	1686831828631394151	/home/arclab/IV2023_first/build/temp.linux-x86_64-cpython-38/my_model_name/ops/attention/src/attention_weight_computation_kernel.o	f577efb17a37a01e
+2	14656	1686831828763394153	/home/arclab/IV2023_first/build/temp.linux-x86_64-cpython-38/my_model_name/ops/attention/src/attention_value_computation_kernel.o	3e15568d12bcd904
+0	9528	1696235479006693915	/home/zigzagson/Documents/ICRA2023/IV2023_first-Prediction/build/temp.linux-x86_64-cpython-38/my_model_name/ops/knn/src/knn.o	27fa295fc68345b2
+0	16229	1696235485706855430	/home/zigzagson/Documents/ICRA2023/IV2023_first-Prediction/build/temp.linux-x86_64-cpython-38/my_model_name/ops/knn/src/knn_api.o	7cfa809778e52ecc
+1	20443	1696235489922973670	/home/zigzagson/Documents/ICRA2023/IV2023_first-Prediction/build/temp.linux-x86_64-cpython-38/my_model_name/ops/knn/src/knn_gpu.o	81d9a0119d3250f6
+1	818	1696235491275009367	/home/zigzagson/Documents/ICRA2023/IV2023_first-Prediction/build/temp.linux-x86_64-cpython-38/my_model_name/ops/attention/src/attention_weight_computation_kernel_v2.o	429b1fef6bf4514d
+0	872	1696235491331010819	/home/zigzagson/Documents/ICRA2023/IV2023_first-Prediction/build/temp.linux-x86_64-cpython-38/my_model_name/ops/attention/src/attention_value_computation_kernel_v2.o	282b07f4f45f5c40
+0	9200	1696235499651210398	/home/zigzagson/Documents/ICRA2023/IV2023_first-Prediction/build/temp.linux-x86_64-cpython-38/my_model_name/ops/attention/src/attention_func.o	aebe749084bec5db
+0	9212	1696235499663210663	/home/zigzagson/Documents/ICRA2023/IV2023_first-Prediction/build/temp.linux-x86_64-cpython-38/my_model_name/ops/attention/src/attention_func_v2.o	911a3d3cc0127284
+0	10632	1696235501083241686	/home/zigzagson/Documents/ICRA2023/IV2023_first-Prediction/build/temp.linux-x86_64-cpython-38/my_model_name/ops/attention/src/attention_api.o	fbf82ab793eba9fc
+0	14737	1696235505187326909	/home/zigzagson/Documents/ICRA2023/IV2023_first-Prediction/build/temp.linux-x86_64-cpython-38/my_model_name/ops/attention/src/attention_value_computation_kernel.o	6ac90971aa1390df
+0	14783	1696235505235327865	/home/zigzagson/Documents/ICRA2023/IV2023_first-Prediction/build/temp.linux-x86_64-cpython-38/my_model_name/ops/attention/src/attention_weight_computation_kernel.o	50f59fe38646dbcb

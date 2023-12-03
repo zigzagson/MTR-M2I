@@ -1,0 +1,15 @@
+setup.py
+MotionTransformer.egg-info/PKG-INFO
+MotionTransformer.egg-info/SOURCES.txt
+MotionTransformer.egg-info/dependency_links.txt
+MotionTransformer.egg-info/top_level.txt
+my_model_name/ops/attention/src/attention_api.cpp
+my_model_name/ops/attention/src/attention_func.cpp
+my_model_name/ops/attention/src/attention_func_v2.cpp
+my_model_name/ops/attention/src/attention_value_computation_kernel.cu
+my_model_name/ops/attention/src/attention_value_computation_kernel_v2.cu
+my_model_name/ops/attention/src/attention_weight_computation_kernel.cu
+my_model_name/ops/attention/src/attention_weight_computation_kernel_v2.cu
+my_model_name/ops/knn/src/knn.cpp
+my_model_name/ops/knn/src/knn_api.cpp
+my_model_name/ops/knn/src/knn_gpu.cu
